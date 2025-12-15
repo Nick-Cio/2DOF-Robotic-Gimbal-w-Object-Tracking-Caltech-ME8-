@@ -1,5 +1,5 @@
 # 2DOF-Robotic-Gimbal-w-Object-Tracking-Caltech-ME8-
-Final code following completion of Caltech ME8 class. Code got pretty messy by the end of the project.
+Final code following completion of Caltech ME8 class (Intro. to Robotics). Code got pretty messy by the end of the project.
 Split into 3 files: detector, controller, runner.
   - detector: object detection
   - controller: robot movement
